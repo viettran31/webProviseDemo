@@ -1,0 +1,19 @@
+{
+    "login": {
+        "username": "test@qaa.com",
+        "password": "111111",
+        "incorrectUsername":"test1@qaa.com",
+        "incorrectPassword":"123213"
+    },
+    "customer": {
+        "firstName":"Viet",
+        "lastName":"Tran",
+        "email":"viettran31@yopmail.com",
+        "birthday":"1994-12-31",
+        "address":"123 Tran Phu",
+        "city":"Ha Noi",
+        "state":"Ha Dong",
+        "zipcode":"10000",
+        "password":"123123"
+    }    
+}

@@ -1,0 +1,6 @@
+{
+    "env": {
+        "login_url": "https://marmelab.com/react-admin-demo/#/login",
+        "homepage_url":"https://marmelab.com/react-admin-demo/#/"
+    }
+}
